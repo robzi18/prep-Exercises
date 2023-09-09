@@ -1,0 +1,12 @@
+{
+  "name": "1-wallet",
+  "version": "1.0.0",
+  "description": "Week4 prep exercise",
+  "main": "euroFormatter.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
